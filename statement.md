@@ -9,7 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "SOMEONE TOLD ME ONCE THAT I SHOULD LIVE, I TOLD THEM "HEY GET A JOB" -QUOTE FROM CHRIS";
+String message = "SOMEONE TOLD ME ONCE THAT I SHOULD LIVE, I TOLD THEM 'HEY GET A JOB' -QUOTE FROM CHRIS";
 System.out.println(message);
 
 //{ autofold
