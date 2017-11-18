@@ -9,7 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "SOME PEOPLE SAY YOU NEED A HAMMER TO NAIL A NAIL, BUT THE PROBLEM WAS I HAD SCREWS. -QUOTE FROM CHRIS";
+String message = "SOME PEOPLE SAY YOU NEED A HAMMER TO NAIL A NAIL, BUT THE PROBLEM WAS, I HAD SCREWS. -QUOTE FROM CHRIS";
 System.out.println(message);
 
 //{ autofold
