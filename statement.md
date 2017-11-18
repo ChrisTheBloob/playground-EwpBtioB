@@ -9,7 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "SOMETHING OR ANOTHER WILL POP UP AS A THOUGHT,WHEN IT DOES BE PROUD BECAUSE THAT MEANS YOU HAVE,IMAGINATION. -QUOTE FROM CHRIS";
+String message = "SOMEONE TOLD ME ONCE THAT I SHOULD LIVE, I TOLD THEM "HEY GET A JOB" -QUOTE FROM CHRIS";
 System.out.println(message);
 
 //{ autofold
